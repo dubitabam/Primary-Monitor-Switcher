@@ -23,12 +23,12 @@ mkdir -p $HOME/Tools/Monitor
 
 *Download the script*
 ```
-curl -o $HOME/tools/test/script.sh https://raw.githubusercontent.com/BrunoAFK/Primary-Monitor-Switcher/master/script.sh
+curl -o $HOME/Tools/Monitor/script.sh https://raw.githubusercontent.com/BrunoAFK/Primary-Monitor-Switcher/master/script.sh
 ```
 
 *Make script executable*
 ```
-chmod +x $HOME/tools/test/script.sh 
+chmod +x $HOME/Tools/Monitor/script.sh 
 ```
 
 **Setup keyboard shortcut from GUI**
